@@ -1,0 +1,176 @@
+/*
+--------------------------
+        SECAO ABOUT
+--------------------------
+*/
+
+#about {
+    background-color: aqua;
+    color: black;
+    font-size: 40px;
+    float: right;
+    min-height: 100vh;
+}
+
+.about-titulo {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.about-sub-titulo {
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
+
+.about-list-itens {
+    display: flex;
+    font-size: 12px;
+}
+
+.about-item {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25%;
+}
+
+.about-item img {
+    width: 100px;
+    height: 80px;
+    background-color: #cf404d;
+}
+
+.about-item a {
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #cf404d;
+    margin-top: 10px;
+}
+
+.about-item a:hover {
+    color: green;
+}
+
+.cal-to-action {
+    background-color: #cf404d;
+    padding: 40px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/*
+--------------------------
+SECAO GALLERY
+--------------------------
+*/
+
+#gallery {
+    background-color: blueviolet;
+    float: right;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-titulo {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 25%;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.gallery-sub-titulo {
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+    margin-top: 10px;
+}
+
+.lista-imagem {
+    display: flex;
+    flex-direction: column;
+    padding: 70px;
+}
+
+.lista-imagem-1 img {
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+
+.lista-imagem-2 img {
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+
+
+/*
+--------------------------
+SECAO CONTACT
+--------------------------
+*/
+
+#contact {
+    background-color: #cf404d;
+    float: right;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact-titulo {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 25%;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.contact-sub-titulo {
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+    margin-top: 10px;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contact form .campos-form {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+form textarea {
+    width: 98%;
+}
+
+form input[type=submit] {
+    width: 100%;
+    background-color: #cf404d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 300ms ease, border 300ms ease, color 300ms ease;
+}
+
+form input[type=submit]:hover {
+    background: transparent;
+    background-color: black;
+    cursor: pointer;
+}
