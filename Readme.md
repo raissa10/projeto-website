@@ -1,5 +1,5 @@
-#Projetos Aula 
-#Semana 01 Novembro
+# Projetos Aula 
+# Semana 01 Novembro
     #Aula 03-11-2022
         * ate as 15:15
             * Passar para pessoal assistir video sobre transitions:1 hora - https://www.youtube.com/watch?v=JJiyguTeBzU
