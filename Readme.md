@@ -13,7 +13,7 @@
             * Introducao a API Supabase com sistema unifique-clone e Insomnia.
             * Criacao de tabelas do banco de dados para o aplicativo.
                 
-#Semana 02 Novembro
+# Semana 02 Novembro
     #Aula 07-11-2022   
         * JavaScript - Manipulacao do DOM e chamadas de APIS REST - SupaBase - unifique-clone
     
@@ -28,7 +28,7 @@
     #Aula 10-11-2022   
         * JavaScript - Manipulacao do DOM e chamadas de APIS REST - SupaBase - petflix-clone
         * Criar interacao com a api da Marvel
-#Semana 03 Novembro
+# Semana 03 Novembro
     #Aula 14-11-2022   
         * PHP - Introducao ao PHP - variaveis,tipos de dados,etc
         
@@ -39,7 +39,7 @@
     #Aula 17-11-2022 
         * PHP - Api REST usando SLIM PHP e publicacao Heroku  
 
-#Semana 04 Novembro
+# Semana 04 Novembro
     #Aula 21-11-2022   
         * PHP - Manipulacao de arquivos html usando PHP - Sistema em PHP - Sistema Comercial em PHP.
         * Criacao das telas de cadastros, produto,cliente,cidade,estado
@@ -55,7 +55,7 @@
         * PHP - Manipulacao de arquivos html usando PHP - Sistema em PHP - Sistema Comercial em PHP.
         * Criacao das telas de relatorios
  
-#Semana 05 Novembro
+# Semana 05 Novembro
     #Aula 28-11-2022   
         * PHP e HTML, CSS e JavaScript e Bootstrap - implementando modelo clone de um sistema rh-senac-clone
         * Integracao com API em SLIM PHP
@@ -70,7 +70,7 @@
     #Aula 01-12-2022 
         * PHP e HTML, CSS e JavaScript e Bootstrap - implementando modelo clone de um sistema area-azul-clone   
  
-#Semana 01 Dezembro
+# Semana 01 Dezembro
     #Aula 05-12-2022   
         * PHP e HTML, CSS e JavaScript e Bootstrap - implementando modelo clone de um sistema celesc-clone    
     
@@ -83,7 +83,7 @@
     #Aula 08-12-2022 
         * PHP e HTML, CSS e JavaScript e Bootstrap - implementando parte web do sistema desktop    
  
-#Semana 02 Dezembro
+# Semana 02 Dezembro
     #Aula 12-12-2022
         * Apresentacao do que foi implementado na parte web do sistema desktop.
 
