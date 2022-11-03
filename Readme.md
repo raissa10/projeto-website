@@ -1,4 +1,6 @@
 # Projetos Aula 
+https://projetos-web-senac.vercel.app/PROJETOS-WEB/aplicativosweb.html
+
 # Semana 01 Novembro
     #Aula 03-11-2022
         * ate as 15:15
@@ -27,7 +29,7 @@
          
     #Aula 10-11-2022   
         * JavaScript - Manipulacao do DOM e chamadas de APIS REST - SupaBase - petflix-clone
-        * Criar interacao com a api da Marvel
+        * Criar interacao com a api da Marvel se der tempo.
 # Semana 03 Novembro
     #Aula 14-11-2022   
         * PHP - Introducao ao PHP - variaveis,tipos de dados,etc
