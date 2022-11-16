@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    function pequena() {
+        document.querySelector("img").width = 300;
+        document.querySelector("img").height = 400;
+    }
+    function media() {
+        document.querySelector("img").width = 500;
+        document.querySelector("img").height = 700;
+    }
+    function grande() {
+        document.querySelector("img").width = 700;
+        document.querySelector("img").height = 900;
+    }
+</script>
+
+<body>
+    <button onclick="pequena()">Pequena</button>
+    <button onclick="media()">Média</button>
+    <button onclick="grande()">Grande</button>
+    <br>
+    <img src="images/crianca.jpg" alt="" width="0" height="0">
+</body>
+
+</html>
